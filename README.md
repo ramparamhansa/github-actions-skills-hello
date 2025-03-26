@@ -5,7 +5,7 @@
 _Create and run a GitHub Actions workflow._
 
 Testing my workflow in action :smile:_
-Why do you fail to run
+
 </header>
 
 ## Step 5: Trigger the workflow :
