@@ -4,7 +4,7 @@
 
 _Create and run a GitHub Actions workflow._
 
-Testing my workflow in action
+Testing my workflow in action :smile:_
 
 </header>
 
